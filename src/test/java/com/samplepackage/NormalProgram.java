@@ -15,9 +15,9 @@ public class NormalProgram {
 		System.out.println("Browser Closed");
 	}
 	
-	public static void TestCase1() {
-		System.out.println("@Regression: Test Case 1 Executed");
-	}
+	//public static void TestCase1() {
+		//System.out.println("@Regression: Test Case 1 Executed");
+	//}
 
 	public static void TestCase2() {
 		System.out.println("@Regression: Test Case 2 Executed");
